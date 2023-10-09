@@ -1,0 +1,16 @@
+.not-found-container {
+  max-width: 450px;
+  margin: 100px auto;
+  padding: 20px;
+  border-radius: 8px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not-found-image {
+  width: 90%;
+  height: 90%;
+}
