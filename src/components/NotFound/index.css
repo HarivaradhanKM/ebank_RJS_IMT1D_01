@@ -14,3 +14,15 @@
   width: 90%;
   height: 90%;
 }
+
+.not-found-heading {
+  color: #5a7184;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+.not-found-para {
+  color: #c3cad9;
+  font-size: 20px;
+  font-family: 'Roboto';
+}

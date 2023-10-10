@@ -1,11 +1,11 @@
 import {BrowserRouter as Router, Route, Switch} from 'react-router-dom'
-import ProtectedRoute from './ProtectedRoute'
+import ProtectedRoute from './components/ProtectedRoute'
 
 import './App.css'
 
-import Login from './Login'
-import Home from './Home'
-import NotFound from './NotFound'
+import Login from './components/Login'
+import Home from './components/Home'
+import NotFound from './components/NotFound'
 
 const App = () => (
   <Router>

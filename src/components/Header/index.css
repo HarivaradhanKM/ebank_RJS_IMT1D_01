@@ -1,0 +1,22 @@
+.nav-el {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 40px;
+}
+
+.logout-button {
+  background-color: transparent;
+  border: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 5px;
+  width: 90px;
+  text-align: center;
+  margin-top: 0;
+}
+
+.website-logo {
+  width: 95px;
+}
